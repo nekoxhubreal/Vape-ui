@@ -1,0 +1,4 @@
+if game.PlaceId == 5827078246 then
+Url = "https://raw.githubusercontent.com/nekoxhubreal/Vape-ui/main/Coins%20hero%20simulator.lua" --Url
+loadstring(game:HttpGet(Url),true)();
+end
